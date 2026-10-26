@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "question": "What does HTML stand for?",
+        "options": [
+            "Hyper Text Markup Language",
+            "High Text Machine Language",
+            "Hyper Tool Markup Language",
+            "Home Text Markup Language"
+        ],
+        "correctAnswer": "Hyper Text Markup Language"
+    },
+    {
+        "id": 2,
+        "question": "What does CSS stand for?",
+        "options": [
+            "Computer Style Sheets",
+            "Cascading Style Sheets",
+            "Creative Style System",
+            "Colorful Style Sheets"
+        ],
+        "correctAnswer": "Cascading Style Sheets"
+    },
+    {
+        "id": 3,
+        "question": "Which language is used to make websites interactive?",
+        "options": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "SQL"
+        ],
+        "correctAnswer": "JavaScript"
+    },
+    {
+        "id": 4,
+        "question": "Which HTML tag is used to create a hyperlink?",
+        "options": [
+            "<link>",
+            "<a>",
+            "<href>",
+            "<url>"
+        ],
+        "correctAnswer": "<a>"
+    },
+    {
+        "id": 5,
+        "question": "Which CSS property changes the text color?",
+        "options": [
+            "background",
+            "font-color",
+            "color",
+            "text-style"
+        ],
+        "correctAnswer": "color"
+    },
+    {
+        "id": 6,
+        "question": "Which method selects an element by its ID?",
+        "options": [
+            "querySelectorAll()",
+            "getElementById()",
+            "getElementsByClassName()",
+            "getElement()"
+        ],
+        "correctAnswer": "getElementById()"
+    },
+    {
+        "id": 7,
+        "question": "Which keyword declares a block-scoped variable?",
+        "options": [
+            "var",
+            "let",
+            "define",
+            "variable"
+        ],
+        "correctAnswer": "let"
+    },
+    {
+        "id": 8,
+        "question": "Which JavaScript method converts JSON text into an object?",
+        "options": [
+            "JSON.stringify()",
+            "JSON.convert()",
+            "JSON.parse()",
+            "JSON.object()"
+        ],
+        "correctAnswer": "JSON.parse()"
+    },
+    {
+        "id": 9,
+        "question": "Which array method adds an element to the end of an array?",
+        "options": [
+            "push()",
+            "pop()",
+            "shift()",
+            "unshift()"
+        ],
+        "correctAnswer": "push()"
+    },
+    {
+        "id": 10,
+        "question": "Which browser storage keeps data after the browser is closed?",
+        "options": [
+            "sessionStorage",
+            "localStorage",
+            "Temporary Variables",
+            "DOM Storage"
+        ],
+        "correctAnswer": "localStorage"
+    }
+]
